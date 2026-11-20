@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mattcex.lootsy",
+      "sha256_cert_fingerprints": [
+        "A5:76:90:45:91:95:B6:85:BF:A7:02:13:EA:1C:4A:AC:F1:D9:B2:84:11:6D:C4:36:99:CB:90:D0:35:7B:DC:62"
+      ]
+    }
+  }
+]
